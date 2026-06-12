@@ -1,6 +1,9 @@
 # Smart Room Monitoring - MQTT Communication
 
 Project akhir Cyber Physical System: implementasi komunikasi MQTT menggunakan Python (paho-mqtt) dan Mosquitto Broker, dengan studi kasus Smart Room Monitoring.
+Nama: Layla 'Afifah Ramadhani
+NIM: 245150301111007
+Kelas: Cyber Physical System A
 
 ## Struktur Topik
 
